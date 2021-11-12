@@ -1,0 +1,1 @@
+main.py -r 10 out1.txt out2.txt
