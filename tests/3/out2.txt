@@ -1,0 +1,11 @@
+Container contains 10 transportaion:
+This is a car: maximum speed = 175. Fuel tank capacity = 52; Liters per 100 km needed 5.1. Max distance can be covered = 26519.999999999996
+This is a car: maximum speed = 29. Fuel tank capacity = 48; Liters per 100 km needed 6.3. Max distance can be covered = 30240.0
+This is a car: maximum speed = 196. Fuel tank capacity = 77; Liters per 100 km needed 7.1. Max distance can be covered = 54670.0
+This is a car: maximum speed = 72. Fuel tank capacity = 55; Liters per 100 km needed 11.7. Max distance can be covered = 64350.0
+This is a truck: load capacity = 14865. Fuel tank capacity = 567; Liters per 100 km needed 14.1. Max distance can be covered = 799470.0
+This is a bus: passenger capacity = 192. Fuel tank capacity = 275; Liters per 100 km needed 60.1. Max distance can be covered = 1652750.0
+This is a bus: passenger capacity = 11. Fuel tank capacity = 201; Liters per 100 km needed 85.5. Max distance can be covered = 1718550.0
+This is a truck: load capacity = 8110. Fuel tank capacity = 1254; Liters per 100 km needed 18.7. Max distance can be covered = 2344980.0
+This is a truck: load capacity = 7101. Fuel tank capacity = 1368; Liters per 100 km needed 57.9. Max distance can be covered = 7920720.0
+This is a truck: load capacity = 1210. Fuel tank capacity = 1315; Liters per 100 km needed 75.5. Max distance can be covered = 9928250.0
