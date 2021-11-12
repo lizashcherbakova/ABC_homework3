@@ -1,0 +1,4 @@
+Container contains 3 transportaion:
+This is a car: maximum speed = 14000. Fuel tank capacity = 1000; Liters per 100 km needed 150.0. Max distance can be covered = 15000000.0
+This is a bus: passenger capacity = 200. Fuel tank capacity = 200; Liters per 100 km needed 41.5. Max distance can be covered = 830000.0
+This is a truck: load capacity = 200. Fuel tank capacity = 200; Liters per 100 km needed 15.0. Max distance can be covered = 300000.0
