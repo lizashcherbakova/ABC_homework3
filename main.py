@@ -1,5 +1,4 @@
 import sys
-import time
 
 from container import *
 
@@ -32,8 +31,6 @@ def quick_sort(array):
 # main.py -r 10 out1.txt out2.txt
 # main.py -f in1.txt out1.txt out2.txt
 if __name__ == '__main__':
-    start_time = time.time()
-    sys.argv = ["", "-f", "in6.txt", "out1.txt", "out2.txt"]
     if len(sys.argv) != 5:
         print( "Waited:\n command -f infile outfile01 outfile02\n Or:\n command -n number outfile01 outfile02\n")
         exit(-1)
@@ -64,4 +61,3 @@ if __name__ == '__main__':
     container.print(second_output)
     second_output.close()
     print('==> Finish')
-    print(f"-> {(time.time() - start_time) * 1000: .4f}ms")
