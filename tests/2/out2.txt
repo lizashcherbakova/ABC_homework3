@@ -1,0 +1,2 @@
+Container contains 1 transportaion:
+This is a car: maximum speed = 10000. Fuel tank capacity = 500; Liters per 100 km needed 140.0. Max distance can be covered = 7000000.0
