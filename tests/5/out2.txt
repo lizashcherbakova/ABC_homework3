@@ -1,0 +1,21 @@
+Container contains 20 transportaion:
+This is a truck: load capacity = 50. Fuel tank capacity = 58; Liters per 100 km needed 5.6. Max distance can be covered = 32480.0
+This is a truck: load capacity = 213. Fuel tank capacity = 82; Liters per 100 km needed 6.2. Max distance can be covered = 50840.0
+This is a truck: load capacity = 18. Fuel tank capacity = 99; Liters per 100 km needed 6.2. Max distance can be covered = 61380.0
+This is a truck: load capacity = 59. Fuel tank capacity = 82; Liters per 100 km needed 8.8. Max distance can be covered = 72160.00000000001
+This is a truck: load capacity = 73. Fuel tank capacity = 74; Liters per 100 km needed 12.2. Max distance can be covered = 90280.0
+This is a truck: load capacity = 13. Fuel tank capacity = 74; Liters per 100 km needed 12.8. Max distance can be covered = 94720.0
+This is a truck: load capacity = 252. Fuel tank capacity = 92; Liters per 100 km needed 10.7. Max distance can be covered = 98440.0
+This is a car: maximum speed = 14604. Fuel tank capacity = 202; Liters per 100 km needed 25.3. Max distance can be covered = 511060.0
+This is a car: maximum speed = 18716. Fuel tank capacity = 418; Liters per 100 km needed 19.5. Max distance can be covered = 815100.0
+This is a bus: passenger capacity = 166. Fuel tank capacity = 203; Liters per 100 km needed 62.1. Max distance can be covered = 1260630.0
+This is a bus: passenger capacity = 120. Fuel tank capacity = 246; Liters per 100 km needed 61.5. Max distance can be covered = 1512900.0
+This is a bus: passenger capacity = 235. Fuel tank capacity = 295; Liters per 100 km needed 55.2. Max distance can be covered = 1628400.0
+This is a bus: passenger capacity = 144. Fuel tank capacity = 205; Liters per 100 km needed 82.5. Max distance can be covered = 1691250.0
+This is a bus: passenger capacity = 246. Fuel tank capacity = 206; Liters per 100 km needed 83.1. Max distance can be covered = 1711860.0
+This is a bus: passenger capacity = 208. Fuel tank capacity = 231; Liters per 100 km needed 75.8. Max distance can be covered = 1750980.0
+This is a bus: passenger capacity = 132. Fuel tank capacity = 269; Liters per 100 km needed 79.4. Max distance can be covered = 2135860.0000000005
+This is a car: maximum speed = 12623. Fuel tank capacity = 884; Liters per 100 km needed 25.4. Max distance can be covered = 2245360.0
+This is a car: maximum speed = 4664. Fuel tank capacity = 1041; Liters per 100 km needed 61.1. Max distance can be covered = 6360510.0
+This is a car: maximum speed = 16541. Fuel tank capacity = 1133; Liters per 100 km needed 61.5. Max distance can be covered = 6967950.0
+This is a car: maximum speed = 9930. Fuel tank capacity = 1177; Liters per 100 km needed 60.6. Max distance can be covered = 7132620.0
